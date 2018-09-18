@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<words>
+	<rules>
+
+		<rule keyword="I_animations">
+	      	<pattern>alguno</pattern>
+	      	<pattern>algun</pattern>
+					<pattern>alguna</pattern>
+			<animation>Alguno</animation>
+		</rule>
+
+		<rule keyword="a_animations">
+	      	<pattern>esta</pattern>
+	      	<pattern>aqui</pattern>
+			<animation>Aqui</animation>
+		</rule>
+
+		<rule keyword="d_animations">
+	      	<pattern>supongamos</pattern>
+	      	<pattern>digamos</pattern>
+			<animation>Digamos</animation>
+		</rule>
+		<rule keyword="example_animations">
+	      	<pattern>ejemplo</pattern>
+			<animation>Ejemplo</animation>
+		</rule>
+		<rule keyword="welcome_animations">
+	      	<pattern>el</pattern>
+			<animation>El</animation>
+		</rule>
+		<rule keyword="en_animations">
+				<pattern>entonces</pattern>
+			<animation>Entonces</animation>
+		</rule>
+		<rule keyword="enu_animations">
+	      	<pattern>esto y esto</pattern>
+	      	<pattern>uno a uno</pattern>
+			<animation>Enumeracion</animation>
+		</rule>
+		<rule keyword="this_animations">
+	      	<pattern>esas</pattern>
+	      	<pattern>esos</pattern>
+	      	<pattern>esa</pattern>
+	      	<pattern>eso</pattern>
+			<animation>Eso</animation>
+		</rule>
+		<rule keyword="ge_animations">
+	      	<pattern>todos</pattern>
+	      	<pattern>general</pattern>
+			<animation>General</animation>
+		</rule>
+		<rule keyword="max_animations">
+	      	<pattern>Alto</pattern>
+	      	<pattern>Ranking</pattern>
+					<pattern>posiciones</pattern>
+			<animation>Maximo</animation>
+		</rule>
+		<rule keyword="welcome_animations">
+					<pattern>hola</pattern>
+	      	<pattern>bienvenido</pattern>
+	      	<pattern>buen día</pattern>
+	      	<pattern>buenos días</pattern>
+	      	<pattern>como está usted</pattern>
+			<animation>Hola</animation>
+		</rule>
+		<rule keyword="m_animations">
+	      	<pattern>mejor</pattern>
+			<animation>Mejor</animation>
+		</rule>
+		<rule keyword="n_animations">
+	      	<pattern>nosotros</pattern>
+					<pattern>nuestros</pattern>
+					<pattern>nuestro</pattern>
+					<pattern>nuestra</pattern>
+					<pattern>yo</pattern>
+			<animation>Nosotros</animation>
+		</rule>
+		<rule keyword="o_animations">
+	      	<pattern>otras</pattern>
+	      	<pattern>otros</pattern>
+					<pattern>otro</pattern>
+			<animation>Otros</animation>
+		</rule>
+		<rule keyword="reason_animations">
+	      	<pattern>pero</pattern>
+			<animation>Pero</animation>
+		</rule>
+		<rule keyword="p_animations">
+	      	<pattern>porque</pattern>
+	      	<pattern>por qué</pattern>
+			<animation>Porque</animation>
+		</rule>
+
+		<rule keyword="question_animations">
+	      	<pattern>que</pattern>
+			<animation>Que</animation>
+		</rule>
+
+		<rule keyword="t_animations">
+	      	<pattern>tenemos</pattern>
+			<animation>Tenemos</animation>
+		</rule>
+
+		<rule keyword="you_animations">
+	      	<pattern>tu</pattern>
+	      	<pattern>ustedes</pattern>
+	      	<pattern>usted</pattern>
+			<animation>Ustedes</animation>
+		</rule>
+
+	</rules>
+</words>

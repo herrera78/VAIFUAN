@@ -1,0 +1,46 @@
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\Windows\Havir.Main\Havir.Sockets\bin\Debug\Havir.Sockets.dll
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\Windows\Havir.Main\Havir.Sockets\bin\Debug\Havir.Sockets.pdb
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\Windows\Havir.Main\Havir.Sockets\obj\Debug\Havir.Sockets.dll
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\Windows\Havir.Main\Havir.Sockets\obj\Debug\Havir.Sockets.pdb
+C:\Users\herre\Documents\GitHub\HAVIR_Windows\HavirManager\Havir.Sockets\bin\Debug\Havir.Sockets.dll
+C:\Users\herre\Documents\GitHub\HAVIR_Windows\HavirManager\Havir.Sockets\bin\Debug\Havir.Sockets.pdb
+C:\Users\herre\Documents\GitHub\HAVIR_Windows\HavirManager\Havir.Sockets\obj\Debug\Havir.Sockets.csprojResolveAssemblyReference.cache
+C:\Users\herre\Documents\GitHub\HAVIR_Windows\HavirManager\Havir.Sockets\obj\Debug\Havir.Sockets.dll
+C:\Users\herre\Documents\GitHub\HAVIR_Windows\HavirManager\Havir.Sockets\obj\Debug\Havir.Sockets.pdb
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\HAVIR_Windows\HavirManager\Havir.Sockets\bin\Debug\Havir.Sockets.dll
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\HAVIR_Windows\HavirManager\Havir.Sockets\bin\Debug\Havir.Sockets.pdb
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\HAVIR_Windows\HavirManager\Havir.Sockets\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\HAVIR_Windows\HavirManager\Havir.Sockets\obj\Debug\Havir.Sockets.csproj.CoreCompileInputs.cache
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\HAVIR_Windows\HavirManager\Havir.Sockets\obj\Debug\Havir.Sockets.dll
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\HAVIR_Windows\HavirManager\Havir.Sockets\obj\Debug\Havir.Sockets.pdb
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\HAVIR_Windows\HavirManager\Havir.Sockets\obj\Debug\Havir.Sockets.csprojResolveAssemblyReference.cache
+C:\Users\david\Documents\GitHub\HVUAN\HavirManager\Havir.Sockets\bin\Debug\Havir.Sockets.dll
+C:\Users\david\Documents\GitHub\HVUAN\HavirManager\Havir.Sockets\bin\Debug\Havir.Sockets.pdb
+C:\Users\david\Documents\GitHub\HVUAN\HavirManager\Havir.Sockets\bin\Debug\Newtonsoft.Json.dll
+C:\Users\david\Documents\GitHub\HVUAN\HavirManager\Havir.Sockets\obj\Debug\Havir.Sockets.csprojResolveAssemblyReference.cache
+C:\Users\david\Documents\GitHub\HVUAN\HavirManager\Havir.Sockets\obj\Debug\Havir.Sockets.dll
+C:\Users\david\Documents\GitHub\HVUAN\HavirManager\Havir.Sockets\obj\Debug\Havir.Sockets.pdb
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\HavirManager\Havir.Sockets\bin\Debug\Havir.Sockets.dll
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\HavirManager\Havir.Sockets\bin\Debug\Havir.Sockets.pdb
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\HavirManager\Havir.Sockets\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\HavirManager\Havir.Sockets\obj\Debug\Havir.Sockets.csprojResolveAssemblyReference.cache
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\HavirManager\Havir.Sockets\obj\Debug\Havir.Sockets.csproj.CoreCompileInputs.cache
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\HavirManager\Havir.Sockets\obj\Debug\Havir.Sockets.dll
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\HavirManager\Havir.Sockets\obj\Debug\Havir.Sockets.pdb
+D:\GITHUB\HVUAN\HavirManager\Havir.Sockets\bin\Debug\Havir.Sockets.dll
+D:\GITHUB\HVUAN\HavirManager\Havir.Sockets\bin\Debug\Havir.Sockets.pdb
+D:\GITHUB\HVUAN\HavirManager\Havir.Sockets\obj\Debug\Havir.Sockets.csproj.CoreCompileInputs.cache
+D:\GITHUB\HVUAN\HavirManager\Havir.Sockets\obj\Debug\Havir.Sockets.csproj.CopyComplete
+D:\GITHUB\HVUAN\HavirManager\Havir.Sockets\obj\Debug\Havir.Sockets.dll
+D:\GITHUB\HVUAN\HavirManager\Havir.Sockets\obj\Debug\Havir.Sockets.pdb
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.Sockets\bin\Debug\Havir.Sockets.dll
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.Sockets\bin\Debug\Havir.Sockets.pdb
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.Sockets\obj\Debug\Havir.Sockets.dll
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.Sockets\obj\Debug\Havir.Sockets.pdb
+D:\GITHUB\VAIFUAN\HavirManager\Havir.Sockets\bin\Debug\Havir.Sockets.dll
+D:\GITHUB\VAIFUAN\HavirManager\Havir.Sockets\bin\Debug\Havir.Sockets.pdb
+D:\GITHUB\VAIFUAN\HavirManager\Havir.Sockets\obj\Debug\Havir.Sockets.csprojResolveAssemblyReference.cache
+D:\GITHUB\VAIFUAN\HavirManager\Havir.Sockets\obj\Debug\Havir.Sockets.csproj.CoreCompileInputs.cache
+D:\GITHUB\VAIFUAN\HavirManager\Havir.Sockets\obj\Debug\Havir.Sockets.csproj.CopyComplete
+D:\GITHUB\VAIFUAN\HavirManager\Havir.Sockets\obj\Debug\Havir.Sockets.dll
+D:\GITHUB\VAIFUAN\HavirManager\Havir.Sockets\obj\Debug\Havir.Sockets.pdb

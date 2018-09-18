@@ -1,0 +1,57 @@
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\VAIF\Havir\Havir.Main.exe.config
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\VAIF\Havir\Havir.Main.exe
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\VAIF\Havir\Havir.Main.pdb
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\HavirManager\obj\Debug\Havir.Main.csprojResolveAssemblyReference.cache
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\HavirManager\obj\Debug\Havir.Main.csproj.CoreCompileInputs.cache
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\HavirManager\obj\Debug\Havir.Main.exe
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\HavirManager\obj\Debug\Havir.Main.pdb
+D:\GITHUB\HVUAN\VAIF\Havir\Graph\BasicDialog.graphml
+D:\GITHUB\HVUAN\VAIF\Havir\Graph\PredefinedAnswers.xml
+D:\GITHUB\HVUAN\VAIF\Havir\Graph\dialogo ejemplo.graphml
+D:\GITHUB\HVUAN\VAIF\Havir\Havir.Main.exe.config
+D:\GITHUB\HVUAN\VAIF\Havir\Havir.Main.exe
+D:\GITHUB\HVUAN\VAIF\Havir\Havir.Main.pdb
+D:\GITHUB\HVUAN\HavirManager\obj\Debug\Havir.Main.csprojResolveAssemblyReference.cache
+D:\GITHUB\HVUAN\HavirManager\obj\Debug\Havir.Main.csproj.CoreCompileInputs.cache
+D:\GITHUB\HVUAN\HavirManager\obj\Debug\Havir.Main.csproj.CopyComplete
+D:\GITHUB\HVUAN\HavirManager\obj\Debug\Havir.Main.exe
+D:\GITHUB\HVUAN\HavirManager\obj\Debug\Havir.Main.pdb
+D:\_Programas_vht\_hvs\GitHub\HVUAN\VAIF\Havir\Graph\BasicDialog.graphml
+D:\_Programas_vht\_hvs\GitHub\HVUAN\VAIF\Havir\Graph\PredefinedAnswers.xml
+D:\_Programas_vht\_hvs\GitHub\HVUAN\VAIF\Havir\Graph\dialogo ejemplo.graphml
+D:\_Programas_vht\_hvs\GitHub\HVUAN\VAIF\Havir\Graph\lexico.xml
+D:\_Programas_vht\_hvs\GitHub\HVUAN\VAIF\Havir\Havir.Main.exe.config
+D:\_Programas_vht\_hvs\GitHub\HVUAN\VAIF\Havir\Havir.Main.exe
+D:\_Programas_vht\_hvs\GitHub\HVUAN\VAIF\Havir\Havir.Main.pdb
+D:\_Programas_vht\_hvs\GitHub\HVUAN\VRAIN-master\Havir\Graph\BasicDialog.graphml
+D:\_Programas_vht\_hvs\GitHub\HVUAN\VRAIN-master\Havir\Graph\PredefinedAnswers.xml
+D:\_Programas_vht\_hvs\GitHub\HVUAN\VRAIN-master\Havir\Graph\dialogo ejemplo.graphml
+D:\_Programas_vht\_hvs\GitHub\HVUAN\VRAIN-master\Havir\Graph\lexico.xml
+D:\_Programas_vht\_hvs\GitHub\HVUAN\VRAIN-master\Havir\Havir.Main.exe.config
+D:\_Programas_vht\_hvs\GitHub\HVUAN\VRAIN-master\Havir\Havir.Main.exe
+D:\_Programas_vht\_hvs\GitHub\HVUAN\VRAIN-master\Havir\Havir.Main.pdb
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\obj\Debug\Havir.Main.csprojResolveAssemblyReference.cache
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\obj\Debug\Havir.Main.csproj.Havir.Main.exe.config
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\obj\Debug\Havir.Main.exe
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\obj\Debug\Havir.Main.pdb
+D:\GITHUB\HVUAN\VRAIN-master\Havir\Havir.Main.exe.config
+D:\GITHUB\HVUAN\VRAIN-master\Havir\Havir.Main.exe
+D:\GITHUB\HVUAN\VRAIN-master\Havir\Havir.Main.pdb
+D:\GITHUB\HVUAN\HavirManager\obj\Debug\Havir.Main.exe.config
+D:\GITHUB\HVUAN\VRAIN-master\Havir\Graph\BasicDialog.graphml
+D:\GITHUB\HVUAN\VRAIN-master\Havir\Graph\PredefinedAnswers.xml
+D:\GITHUB\HVUAN\VRAIN-master\Havir\Graph\dialogo ejemplo.graphml
+D:\GITHUB\HVUAN\VRAIN-master\Havir\Graph\lexico.xml
+D:\GITHUB\VAIFUAN\VRAIN-master\Havir\Graph\BasicDialog.graphml
+D:\GITHUB\VAIFUAN\VRAIN-master\Havir\Graph\PredefinedAnswers.xml
+D:\GITHUB\VAIFUAN\VRAIN-master\Havir\Graph\dialogo ejemplo.graphml
+D:\GITHUB\VAIFUAN\VRAIN-master\Havir\Graph\lexico.xml
+D:\GITHUB\VAIFUAN\VRAIN-master\Havir\Havir.Main.exe.config
+D:\GITHUB\VAIFUAN\VRAIN-master\Havir\Havir.Main.exe
+D:\GITHUB\VAIFUAN\VRAIN-master\Havir\Havir.Main.pdb
+D:\GITHUB\VAIFUAN\HavirManager\obj\Debug\Havir.Main.csprojResolveAssemblyReference.cache
+D:\GITHUB\VAIFUAN\HavirManager\obj\Debug\Havir.Main.exe.config
+D:\GITHUB\VAIFUAN\HavirManager\obj\Debug\Havir.Main.csproj.CoreCompileInputs.cache
+D:\GITHUB\VAIFUAN\HavirManager\obj\Debug\Havir.Main.csproj.CopyComplete
+D:\GITHUB\VAIFUAN\HavirManager\obj\Debug\Havir.Main.exe
+D:\GITHUB\VAIFUAN\HavirManager\obj\Debug\Havir.Main.pdb

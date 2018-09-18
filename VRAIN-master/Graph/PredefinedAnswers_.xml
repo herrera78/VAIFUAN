@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items>
+  <item id="verdadero" value="si;claro;desde luego;por supuesto;bueno;si senior" />
+  <item id="falso" value="no;ne;no me importa;claro que no;no senior" />
+  <item id="true" value="si;claro;desde luego;por supuesto;bueno;si senior" />
+  <item id="false" value="no;ne;no me importa;claro que no;no senior" />
+  <item id="si" value="si;claro;desde luego;por supuesto;bueno;si senior" />
+  <item id="no" value="no;ne;no me importa;claro que no;no senior" />
+  <item id="circunvalar" value="circunvalar" />
+  <item id="sur" value="sur;la sede sur;la del sur;la sede del sur;" />
+  <item id="iberica" value="iberica" />
+  <item id="usme" value="usme" />
+  <item id="federman" value="federman" />
+</items>

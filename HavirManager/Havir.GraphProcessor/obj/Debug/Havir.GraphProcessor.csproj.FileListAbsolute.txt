@@ -1,0 +1,48 @@
+D:\_Programas_vht\_hvs\GitHub\HVUAN\Havir.GraphProcessor\bin\Debug\Graph\BasicDialog.graphml
+D:\_Programas_vht\_hvs\GitHub\HVUAN\Havir.GraphProcessor\bin\Debug\Graph\PredefinedAnswers.xml
+D:\_Programas_vht\_hvs\GitHub\HVUAN\Havir.GraphProcessor\bin\Debug\Graph\dialogo ejemplo.graphml
+D:\_Programas_vht\_hvs\GitHub\HVUAN\Havir.GraphProcessor\bin\Debug\Graph\lexico.xml
+D:\_Programas_vht\_hvs\GitHub\HVUAN\Havir.GraphProcessor\bin\Debug\Havir.GraphProcessor.exe.config
+D:\_Programas_vht\_hvs\GitHub\HVUAN\Havir.GraphProcessor\bin\Debug\Havir.GraphProcessor.exe
+D:\_Programas_vht\_hvs\GitHub\HVUAN\Havir.GraphProcessor\bin\Debug\Havir.GraphProcessor.pdb
+D:\_Programas_vht\_hvs\GitHub\HVUAN\Havir.GraphProcessor\bin\Debug\Havir.Api.dll
+D:\_Programas_vht\_hvs\GitHub\HVUAN\Havir.GraphProcessor\bin\Debug\Havir.DataAccess.dll
+D:\_Programas_vht\_hvs\GitHub\HVUAN\Havir.GraphProcessor\bin\Debug\Havir.Sockets.dll
+D:\_Programas_vht\_hvs\GitHub\HVUAN\Havir.GraphProcessor\bin\Debug\Newtonsoft.Json.dll
+D:\_Programas_vht\_hvs\GitHub\HVUAN\Havir.GraphProcessor\bin\Debug\Havir.Api.pdb
+D:\_Programas_vht\_hvs\GitHub\HVUAN\Havir.GraphProcessor\bin\Debug\Havir.DataAccess.pdb
+D:\_Programas_vht\_hvs\GitHub\HVUAN\Havir.GraphProcessor\bin\Debug\Havir.Sockets.pdb
+D:\_Programas_vht\_hvs\GitHub\HVUAN\Havir.GraphProcessor\obj\Debug\Havir.GraphProcessor.csprojResolveAssemblyReference.cache
+D:\_Programas_vht\_hvs\GitHub\HVUAN\Havir.GraphProcessor\obj\Debug\Havir.GraphProcessor.exe
+D:\_Programas_vht\_hvs\GitHub\HVUAN\Havir.GraphProcessor\obj\Debug\Havir.GraphProcessor.pdb
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\VRAIN-master\Havir\Graph\BasicDialog.graphml
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\VRAIN-master\Havir\Graph\PredefinedAnswers.xml
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\VRAIN-master\Havir\Graph\dialogo ejemplo.graphml
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\VRAIN-master\Havir\Graph\lexico.xml
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\VRAIN-master\Havir\Havir.GraphProcessor.exe.config
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\VRAIN-master\Havir\Havir.GraphProcessor.exe
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\VRAIN-master\Havir\Havir.GraphProcessor.pdb
+D:\_Programas_vht\_hvs\GitHub\HVUAN\VRAIN-master\Havir\Graph\BasicDialog.graphml
+D:\_Programas_vht\_hvs\GitHub\HVUAN\VRAIN-master\Havir\Graph\PredefinedAnswers.xml
+D:\_Programas_vht\_hvs\GitHub\HVUAN\VRAIN-master\Havir\Graph\dialogo ejemplo.graphml
+D:\_Programas_vht\_hvs\GitHub\HVUAN\VRAIN-master\Havir\Graph\lexico.xml
+D:\_Programas_vht\_hvs\GitHub\HVUAN\VRAIN-master\Havir\Havir.GraphProcessor.exe.config
+D:\_Programas_vht\_hvs\GitHub\HVUAN\VRAIN-master\Havir\Havir.GraphProcessor.exe
+D:\_Programas_vht\_hvs\GitHub\HVUAN\VRAIN-master\Havir\Havir.GraphProcessor.pdb
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.GraphProcessor\obj\Debug\Havir.GraphProcessor.csprojResolveAssemblyReference.cache
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.GraphProcessor\obj\Debug\Havir.GraphProcessor.csproj.Havir.GraphProcessor.exe.config
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.GraphProcessor\obj\Debug\Havir.GraphProcessor.exe
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.GraphProcessor\obj\Debug\Havir.GraphProcessor.pdb
+D:\GITHUB\VAIFUAN\VRAIN-master\Havir\Graph\BasicDialog.graphml
+D:\GITHUB\VAIFUAN\VRAIN-master\Havir\Graph\PredefinedAnswers.xml
+D:\GITHUB\VAIFUAN\VRAIN-master\Havir\Graph\dialogo ejemplo.graphml
+D:\GITHUB\VAIFUAN\VRAIN-master\Havir\Graph\lexico.xml
+D:\GITHUB\VAIFUAN\VRAIN-master\Havir\Havir.GraphProcessor.exe.config
+D:\GITHUB\VAIFUAN\VRAIN-master\Havir\Havir.GraphProcessor.exe
+D:\GITHUB\VAIFUAN\VRAIN-master\Havir\Havir.GraphProcessor.pdb
+D:\GITHUB\VAIFUAN\HavirManager\Havir.GraphProcessor\obj\Debug\Havir.GraphProcessor.csprojResolveAssemblyReference.cache
+D:\GITHUB\VAIFUAN\HavirManager\Havir.GraphProcessor\obj\Debug\Havir.GraphProcessor.exe.config
+D:\GITHUB\VAIFUAN\HavirManager\Havir.GraphProcessor\obj\Debug\Havir.GraphProcessor.csproj.CoreCompileInputs.cache
+D:\GITHUB\VAIFUAN\HavirManager\Havir.GraphProcessor\obj\Debug\Havir.GraphProcessor.csproj.CopyComplete
+D:\GITHUB\VAIFUAN\HavirManager\Havir.GraphProcessor\obj\Debug\Havir.GraphProcessor.exe
+D:\GITHUB\VAIFUAN\HavirManager\Havir.GraphProcessor\obj\Debug\Havir.GraphProcessor.pdb

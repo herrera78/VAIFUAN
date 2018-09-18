@@ -1,0 +1,107 @@
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\Windows\Havir.Main\Havir.DataAccess\bin\Debug\Havir.DataAccess.dll
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\Windows\Havir.Main\Havir.DataAccess\bin\Debug\Havir.DataAccess.pdb
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\Windows\Havir.Main\Havir.DataAccess\bin\Debug\Havir.Api.dll
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\Windows\Havir.Main\Havir.DataAccess\bin\Debug\Havir.Api.pdb
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\Windows\Havir.Main\Havir.DataAccess\obj\Debug\Havir.DataAccess.dll
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\Windows\Havir.Main\Havir.DataAccess\obj\Debug\Havir.DataAccess.pdb
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\Windows\Havir.Main\Havir.DataAccess\obj\Debug\Havir.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\herre\Documents\GitHub\HAVIR_Windows\HavirManager\Havir.DataAccess\bin\Debug\Havir.DataAccess.dll
+C:\Users\herre\Documents\GitHub\HAVIR_Windows\HavirManager\Havir.DataAccess\bin\Debug\Havir.DataAccess.pdb
+C:\Users\herre\Documents\GitHub\HAVIR_Windows\HavirManager\Havir.DataAccess\bin\Debug\Havir.Api.dll
+C:\Users\herre\Documents\GitHub\HAVIR_Windows\HavirManager\Havir.DataAccess\bin\Debug\Havir.Api.pdb
+C:\Users\herre\Documents\GitHub\HAVIR_Windows\HavirManager\Havir.DataAccess\obj\Debug\Havir.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\herre\Documents\GitHub\HAVIR_Windows\HavirManager\Havir.DataAccess\obj\Debug\Havir.DataAccess.dll
+C:\Users\herre\Documents\GitHub\HAVIR_Windows\HavirManager\Havir.DataAccess\obj\Debug\Havir.DataAccess.pdb
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\HAVIR_Windows\HavirManager\Havir.DataAccess\bin\Debug\Graph\BasicDialog.graphml
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\HAVIR_Windows\HavirManager\Havir.DataAccess\bin\Debug\Graph\PredefinedAnswers.xml
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\HAVIR_Windows\HavirManager\Havir.DataAccess\bin\Debug\Graph\dialogo ejemplo.graphml
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\HAVIR_Windows\HavirManager\Havir.DataAccess\bin\Debug\Havir.DataAccess.dll
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\HAVIR_Windows\HavirManager\Havir.DataAccess\bin\Debug\Havir.DataAccess.pdb
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\HAVIR_Windows\HavirManager\Havir.DataAccess\bin\Debug\Havir.Api.dll
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\HAVIR_Windows\HavirManager\Havir.DataAccess\bin\Debug\Havir.Sockets.dll
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\HAVIR_Windows\HavirManager\Havir.DataAccess\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\HAVIR_Windows\HavirManager\Havir.DataAccess\bin\Debug\Havir.Api.pdb
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\HAVIR_Windows\HavirManager\Havir.DataAccess\bin\Debug\Havir.Sockets.pdb
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\HAVIR_Windows\HavirManager\Havir.DataAccess\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\HAVIR_Windows\HavirManager\Havir.DataAccess\obj\Debug\Havir.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\HAVIR_Windows\HavirManager\Havir.DataAccess\obj\Debug\Havir.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\HAVIR_Windows\HavirManager\Havir.DataAccess\obj\Debug\Havir.DataAccess.dll
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\HAVIR_Windows\HavirManager\Havir.DataAccess\obj\Debug\Havir.DataAccess.pdb
+C:\Users\david\Documents\GitHub\HVUAN\HavirManager\Havir.DataAccess\bin\Debug\Graph\BasicDialog.graphml
+C:\Users\david\Documents\GitHub\HVUAN\HavirManager\Havir.DataAccess\bin\Debug\Graph\PredefinedAnswers.xml
+C:\Users\david\Documents\GitHub\HVUAN\HavirManager\Havir.DataAccess\bin\Debug\Graph\dialogo ejemplo.graphml
+C:\Users\david\Documents\GitHub\HVUAN\HavirManager\Havir.DataAccess\bin\Debug\Havir.DataAccess.dll
+C:\Users\david\Documents\GitHub\HVUAN\HavirManager\Havir.DataAccess\bin\Debug\Havir.DataAccess.pdb
+C:\Users\david\Documents\GitHub\HVUAN\HavirManager\Havir.DataAccess\bin\Debug\Havir.Api.dll
+C:\Users\david\Documents\GitHub\HVUAN\HavirManager\Havir.DataAccess\bin\Debug\Havir.Sockets.dll
+C:\Users\david\Documents\GitHub\HVUAN\HavirManager\Havir.DataAccess\bin\Debug\Newtonsoft.Json.dll
+C:\Users\david\Documents\GitHub\HVUAN\HavirManager\Havir.DataAccess\bin\Debug\Havir.Api.pdb
+C:\Users\david\Documents\GitHub\HVUAN\HavirManager\Havir.DataAccess\bin\Debug\Havir.Sockets.pdb
+C:\Users\david\Documents\GitHub\HVUAN\HavirManager\Havir.DataAccess\bin\Debug\Newtonsoft.Json.xml
+C:\Users\david\Documents\GitHub\HVUAN\HavirManager\Havir.DataAccess\obj\Debug\Havir.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\david\Documents\GitHub\HVUAN\HavirManager\Havir.DataAccess\obj\Debug\Havir.DataAccess.dll
+C:\Users\david\Documents\GitHub\HVUAN\HavirManager\Havir.DataAccess\obj\Debug\Havir.DataAccess.pdb
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\HavirManager\Havir.DataAccess\bin\Debug\Graph\BasicDialog.graphml
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\HavirManager\Havir.DataAccess\bin\Debug\Graph\PredefinedAnswers.xml
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\HavirManager\Havir.DataAccess\bin\Debug\Graph\dialogo ejemplo.graphml
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\HavirManager\Havir.DataAccess\bin\Debug\Havir.DataAccess.dll
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\HavirManager\Havir.DataAccess\bin\Debug\Havir.DataAccess.pdb
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\HavirManager\Havir.DataAccess\bin\Debug\Havir.Api.dll
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\HavirManager\Havir.DataAccess\bin\Debug\Havir.Sockets.dll
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\HavirManager\Havir.DataAccess\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\HavirManager\Havir.DataAccess\bin\Debug\Havir.Api.pdb
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\HavirManager\Havir.DataAccess\bin\Debug\Havir.Sockets.pdb
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\HavirManager\Havir.DataAccess\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\HavirManager\Havir.DataAccess\obj\Debug\Havir.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\HavirManager\Havir.DataAccess\obj\Debug\Havir.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\HavirManager\Havir.DataAccess\obj\Debug\Havir.DataAccess.dll
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\HavirManager\Havir.DataAccess\obj\Debug\Havir.DataAccess.pdb
+D:\GITHUB\HVUAN\HavirManager\Havir.DataAccess\bin\Debug\Graph\BasicDialog.graphml
+D:\GITHUB\HVUAN\HavirManager\Havir.DataAccess\bin\Debug\Graph\PredefinedAnswers.xml
+D:\GITHUB\HVUAN\HavirManager\Havir.DataAccess\bin\Debug\Graph\dialogo ejemplo.graphml
+D:\GITHUB\HVUAN\HavirManager\Havir.DataAccess\bin\Debug\Havir.DataAccess.dll
+D:\GITHUB\HVUAN\HavirManager\Havir.DataAccess\bin\Debug\Havir.DataAccess.pdb
+D:\GITHUB\HVUAN\HavirManager\Havir.DataAccess\bin\Debug\Havir.Api.dll
+D:\GITHUB\HVUAN\HavirManager\Havir.DataAccess\bin\Debug\Havir.Sockets.dll
+D:\GITHUB\HVUAN\HavirManager\Havir.DataAccess\bin\Debug\Newtonsoft.Json.dll
+D:\GITHUB\HVUAN\HavirManager\Havir.DataAccess\bin\Debug\Havir.Api.pdb
+D:\GITHUB\HVUAN\HavirManager\Havir.DataAccess\bin\Debug\Havir.Sockets.pdb
+D:\GITHUB\HVUAN\HavirManager\Havir.DataAccess\bin\Debug\Newtonsoft.Json.xml
+D:\GITHUB\HVUAN\HavirManager\Havir.DataAccess\obj\Debug\Havir.DataAccess.csprojResolveAssemblyReference.cache
+D:\GITHUB\HVUAN\HavirManager\Havir.DataAccess\obj\Debug\Havir.DataAccess.csproj.CoreCompileInputs.cache
+D:\GITHUB\HVUAN\HavirManager\Havir.DataAccess\obj\Debug\Havir.DataAccess.csproj.CopyComplete
+D:\GITHUB\HVUAN\HavirManager\Havir.DataAccess\obj\Debug\Havir.DataAccess.dll
+D:\GITHUB\HVUAN\HavirManager\Havir.DataAccess\obj\Debug\Havir.DataAccess.pdb
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.DataAccess\bin\Debug\Graph\BasicDialog.graphml
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.DataAccess\bin\Debug\Graph\PredefinedAnswers.xml
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.DataAccess\bin\Debug\Graph\dialogo ejemplo.graphml
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.DataAccess\bin\Debug\Graph\lexico.xml
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.DataAccess\bin\Debug\Havir.DataAccess.dll
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.DataAccess\bin\Debug\Havir.DataAccess.pdb
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.DataAccess\bin\Debug\Havir.Api.dll
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.DataAccess\bin\Debug\Havir.Sockets.dll
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.DataAccess\bin\Debug\Newtonsoft.Json.dll
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.DataAccess\bin\Debug\Havir.Api.pdb
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.DataAccess\bin\Debug\Havir.Sockets.pdb
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.DataAccess\bin\Debug\Newtonsoft.Json.xml
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.DataAccess\obj\Debug\Havir.DataAccess.csprojResolveAssemblyReference.cache
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.DataAccess\obj\Debug\Havir.DataAccess.dll
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.DataAccess\obj\Debug\Havir.DataAccess.pdb
+D:\GITHUB\HVUAN\HavirManager\Havir.DataAccess\bin\Debug\Graph\lexico.xml
+D:\GITHUB\VAIFUAN\HavirManager\Havir.DataAccess\bin\Debug\Graph\BasicDialog.graphml
+D:\GITHUB\VAIFUAN\HavirManager\Havir.DataAccess\bin\Debug\Graph\PredefinedAnswers.xml
+D:\GITHUB\VAIFUAN\HavirManager\Havir.DataAccess\bin\Debug\Graph\dialogo ejemplo.graphml
+D:\GITHUB\VAIFUAN\HavirManager\Havir.DataAccess\bin\Debug\Graph\lexico.xml
+D:\GITHUB\VAIFUAN\HavirManager\Havir.DataAccess\bin\Debug\Havir.DataAccess.dll
+D:\GITHUB\VAIFUAN\HavirManager\Havir.DataAccess\bin\Debug\Havir.DataAccess.pdb
+D:\GITHUB\VAIFUAN\HavirManager\Havir.DataAccess\bin\Debug\Havir.Api.dll
+D:\GITHUB\VAIFUAN\HavirManager\Havir.DataAccess\bin\Debug\Havir.Sockets.dll
+D:\GITHUB\VAIFUAN\HavirManager\Havir.DataAccess\bin\Debug\Newtonsoft.Json.dll
+D:\GITHUB\VAIFUAN\HavirManager\Havir.DataAccess\bin\Debug\Havir.Api.pdb
+D:\GITHUB\VAIFUAN\HavirManager\Havir.DataAccess\bin\Debug\Havir.Sockets.pdb
+D:\GITHUB\VAIFUAN\HavirManager\Havir.DataAccess\bin\Debug\Newtonsoft.Json.xml
+D:\GITHUB\VAIFUAN\HavirManager\Havir.DataAccess\obj\Debug\Havir.DataAccess.csprojResolveAssemblyReference.cache
+D:\GITHUB\VAIFUAN\HavirManager\Havir.DataAccess\obj\Debug\Havir.DataAccess.csproj.CoreCompileInputs.cache
+D:\GITHUB\VAIFUAN\HavirManager\Havir.DataAccess\obj\Debug\Havir.DataAccess.csproj.CopyComplete
+D:\GITHUB\VAIFUAN\HavirManager\Havir.DataAccess\obj\Debug\Havir.DataAccess.dll
+D:\GITHUB\VAIFUAN\HavirManager\Havir.DataAccess\obj\Debug\Havir.DataAccess.pdb

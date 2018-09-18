@@ -1,0 +1,77 @@
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\Windows\Havir.Api\obj\Debug\Havir.Api.csprojResolveAssemblyReference.cache
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\Windows\Havir.Api\bin\Debug\Havir.Api.dll
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\Windows\Havir.Api\bin\Debug\Havir.Api.pdb
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\Windows\Havir.Api\bin\Debug\Apache.NMS.ActiveMQ.dll
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\Windows\Havir.Api\bin\Debug\Apache.NMS.dll
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\Windows\Havir.Api\bin\Debug\Apache.NMS.pdb
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\Windows\Havir.Api\bin\Debug\Apache.NMS.xml
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\Windows\Havir.Api\bin\Debug\Apache.NMS.ActiveMQ.pdb
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\Windows\Havir.Api\bin\Debug\Apache.NMS.ActiveMQ.xml
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\Windows\Havir.Api\obj\Debug\Havir.Api.dll
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\Windows\Havir.Api\obj\Debug\Havir.Api.pdb
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\Windows\Havir.Main\Havir.Api\bin\Debug\Havir.Api.dll
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\Windows\Havir.Main\Havir.Api\bin\Debug\Havir.Api.pdb
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\Windows\Havir.Main\Havir.Api\obj\Debug\Havir.Api.dll
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\Windows\Havir.Main\Havir.Api\obj\Debug\Havir.Api.pdb
+C:\Users\herre\Documents\GitHub\HAVIR_Windows\HavirManager\Havir.Api\bin\Debug\Havir.Api.dll
+C:\Users\herre\Documents\GitHub\HAVIR_Windows\HavirManager\Havir.Api\bin\Debug\Havir.Api.pdb
+C:\Users\herre\Documents\GitHub\HAVIR_Windows\HavirManager\Havir.Api\obj\Debug\Havir.Api.csprojResolveAssemblyReference.cache
+C:\Users\herre\Documents\GitHub\HAVIR_Windows\HavirManager\Havir.Api\obj\Debug\Havir.Api.dll
+C:\Users\herre\Documents\GitHub\HAVIR_Windows\HavirManager\Havir.Api\obj\Debug\Havir.Api.pdb
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\HAVIR_Windows\HavirManager\Havir.Api\bin\Debug\Havir.Api.dll
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\HAVIR_Windows\HavirManager\Havir.Api\bin\Debug\Havir.Api.pdb
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\HAVIR_Windows\HavirManager\Havir.Api\bin\Debug\Havir.Sockets.dll
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\HAVIR_Windows\HavirManager\Havir.Api\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\HAVIR_Windows\HavirManager\Havir.Api\bin\Debug\Havir.Sockets.pdb
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\HAVIR_Windows\HavirManager\Havir.Api\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\HAVIR_Windows\HavirManager\Havir.Api\obj\Debug\Havir.Api.csprojResolveAssemblyReference.cache
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\HAVIR_Windows\HavirManager\Havir.Api\obj\Debug\Havir.Api.csproj.CoreCompileInputs.cache
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\HAVIR_Windows\HavirManager\Havir.Api\obj\Debug\Havir.Api.dll
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\HAVIR_Windows\HavirManager\Havir.Api\obj\Debug\Havir.Api.pdb
+C:\Users\david\Documents\GitHub\HVUAN\HavirManager\Havir.Api\bin\Debug\Havir.Api.dll
+C:\Users\david\Documents\GitHub\HVUAN\HavirManager\Havir.Api\bin\Debug\Havir.Api.pdb
+C:\Users\david\Documents\GitHub\HVUAN\HavirManager\Havir.Api\bin\Debug\Havir.Sockets.dll
+C:\Users\david\Documents\GitHub\HVUAN\HavirManager\Havir.Api\bin\Debug\Newtonsoft.Json.dll
+C:\Users\david\Documents\GitHub\HVUAN\HavirManager\Havir.Api\bin\Debug\Havir.Sockets.pdb
+C:\Users\david\Documents\GitHub\HVUAN\HavirManager\Havir.Api\bin\Debug\Newtonsoft.Json.xml
+C:\Users\david\Documents\GitHub\HVUAN\HavirManager\Havir.Api\obj\Debug\Havir.Api.csprojResolveAssemblyReference.cache
+C:\Users\david\Documents\GitHub\HVUAN\HavirManager\Havir.Api\obj\Debug\Havir.Api.dll
+C:\Users\david\Documents\GitHub\HVUAN\HavirManager\Havir.Api\obj\Debug\Havir.Api.pdb
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\HavirManager\Havir.Api\bin\Debug\Havir.Api.dll
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\HavirManager\Havir.Api\bin\Debug\Havir.Api.pdb
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\HavirManager\Havir.Api\bin\Debug\Havir.Sockets.dll
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\HavirManager\Havir.Api\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\HavirManager\Havir.Api\bin\Debug\Havir.Sockets.pdb
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\HavirManager\Havir.Api\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\HavirManager\Havir.Api\obj\Debug\Havir.Api.csprojResolveAssemblyReference.cache
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\HavirManager\Havir.Api\obj\Debug\Havir.Api.csproj.CoreCompileInputs.cache
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\HavirManager\Havir.Api\obj\Debug\Havir.Api.dll
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\HavirManager\Havir.Api\obj\Debug\Havir.Api.pdb
+D:\GITHUB\HVUAN\HavirManager\Havir.Api\bin\Debug\Havir.Api.dll
+D:\GITHUB\HVUAN\HavirManager\Havir.Api\bin\Debug\Havir.Api.pdb
+D:\GITHUB\HVUAN\HavirManager\Havir.Api\bin\Debug\Havir.Sockets.dll
+D:\GITHUB\HVUAN\HavirManager\Havir.Api\bin\Debug\Newtonsoft.Json.dll
+D:\GITHUB\HVUAN\HavirManager\Havir.Api\bin\Debug\Havir.Sockets.pdb
+D:\GITHUB\HVUAN\HavirManager\Havir.Api\obj\Debug\Havir.Api.csprojResolveAssemblyReference.cache
+D:\GITHUB\HVUAN\HavirManager\Havir.Api\obj\Debug\Havir.Api.csproj.CoreCompileInputs.cache
+D:\GITHUB\HVUAN\HavirManager\Havir.Api\obj\Debug\Havir.Api.csproj.CopyComplete
+D:\GITHUB\HVUAN\HavirManager\Havir.Api\obj\Debug\Havir.Api.dll
+D:\GITHUB\HVUAN\HavirManager\Havir.Api\obj\Debug\Havir.Api.pdb
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.Api\bin\Debug\Havir.Api.dll
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.Api\bin\Debug\Havir.Api.pdb
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.Api\bin\Debug\Havir.Sockets.dll
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.Api\bin\Debug\Newtonsoft.Json.dll
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.Api\bin\Debug\Havir.Sockets.pdb
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.Api\obj\Debug\Havir.Api.csprojResolveAssemblyReference.cache
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.Api\obj\Debug\Havir.Api.dll
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.Api\obj\Debug\Havir.Api.pdb
+D:\GITHUB\VAIFUAN\HavirManager\Havir.Api\bin\Debug\Havir.Api.dll
+D:\GITHUB\VAIFUAN\HavirManager\Havir.Api\bin\Debug\Havir.Api.pdb
+D:\GITHUB\VAIFUAN\HavirManager\Havir.Api\bin\Debug\Havir.Sockets.dll
+D:\GITHUB\VAIFUAN\HavirManager\Havir.Api\bin\Debug\Newtonsoft.Json.dll
+D:\GITHUB\VAIFUAN\HavirManager\Havir.Api\bin\Debug\Havir.Sockets.pdb
+D:\GITHUB\VAIFUAN\HavirManager\Havir.Api\obj\Debug\Havir.Api.csprojResolveAssemblyReference.cache
+D:\GITHUB\VAIFUAN\HavirManager\Havir.Api\obj\Debug\Havir.Api.csproj.CoreCompileInputs.cache
+D:\GITHUB\VAIFUAN\HavirManager\Havir.Api\obj\Debug\Havir.Api.csproj.CopyComplete
+D:\GITHUB\VAIFUAN\HavirManager\Havir.Api\obj\Debug\Havir.Api.dll
+D:\GITHUB\VAIFUAN\HavirManager\Havir.Api\obj\Debug\Havir.Api.pdb
