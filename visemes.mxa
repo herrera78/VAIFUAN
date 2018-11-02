@@ -1,0 +1,119 @@
+{
+  "name" : "Body Language",
+  
+  "layout" : [
+      ["PP","FF","TH"],
+      ["DD","kk","CH"],
+      ["SS","nn","RR"],
+      ["aa","E","ih"],
+      ["oh","ou","sil"]
+       
+  ],
+  
+    "visemes" : {
+        "sil" : [
+            ["lips_part", 0.6]
+            ],
+        "kk" : [
+            ["lips_part", 0.4]
+            ],
+        "PP" : [
+            ],
+        "ou" : [
+            ["mouth_narrow_left", 1.0],
+            ["mouth_narrow_right", 1.0],
+            ["mouth_open", 0.4]
+            ],
+        "oh" : [
+            ["mouth_narrow_left", 0.9],
+            ["mouth_narrow_right", 0.9],
+            ["mouth_open", 0.8]
+            ],
+        "RR" : [
+            ["mouth_narrow_left", 0.5],
+            ["mouth_narrow_right", 0.5],
+            ["lips_mid_upper_up_left", 0.2],
+            ["lips_mid_upper_up_right", 0.2],
+            ["lips_mid_lower_down_left", 0.2],
+            ["lips_mid_lower_down_right", 0.2]
+            ],
+        "FF" : [
+            ["mouth_wide_left", 0.2],
+            ["mouth_wide_right", 0.2],
+            ["lips_part", 1.0],
+            ["lips_mid_lower_up_left", 0.3],
+            ["lips_mid_lower_up_right", 0.3],
+            ["lips_lower_in", 0.6]
+            ],
+        "SS" : [
+            ["lips_mid_upper_up_left", 0.5],
+            ["lips_mid_upper_up_right", 0.5],
+            ["lips_mid_lower_down_left", 0.7],
+            ["lips_mid_lower_down_right", 0.7]
+            ],
+        "CH" : [
+            ["mouth_wide_left", 0.8],
+            ["mouth_wide_right", 0.8],
+            ["lips_mid_upper_up_left", 1.0],
+            ["lips_mid_upper_up_right", 1.0]
+            ],
+        "ih" : [
+            ["mouth_wide_left", 0.2],
+            ["mouth_wide_right", 0.2],
+            ["lips_mid_upper_up_left", 0.6],
+            ["lips_mid_upper_up_right", 0.6],
+            ["lips_mid_lower_down_left", 0.6],
+            ["lips_mid_lower_down_right", 0.6],
+            ["mouth_open", 0.5]
+            ],
+        "aa" : [
+            ["lips_mid_upper_up_left", 0.4],
+            ["lips_mid_upper_up_right", 0.4],
+            ["mouth_open", 0.7]
+            ],
+        "E" : [
+            ["lips_mid_upper_up_left", 0.5],
+            ["lips_mid_upper_up_right", 0.5],
+            ["lips_mid_lower_down_left", 0.6],
+            ["lips_mid_lower_down_right", 0.6],
+            ["mouth_open", 0.25]
+            ],
+        "TH" : [
+            ["mouth_open", 0.2],
+            ["tongue_back_up", 0.5],
+            ["tongue_out", 0.6],
+            ["tongue_up", 1.2],
+            ["tongue_wide", -0.5]
+            ],
+        "nn" : [
+            ["lips_mid_upper_up_left", 0.5],
+            ["lips_mid_upper_up_right", 0.5],
+            ["lips_mid_lower_down_left", 0.5],
+            ["lips_mid_lower_down_right", 0.5],
+            ["mouth_open", 0.2],
+            ["tongue_back_up", 1.0],
+            ["tongue_up", 1.0]
+            ],
+        "DD" : [
+            ["lips_mid_upper_up_left", 0.5],
+            ["lips_mid_upper_up_right", 0.5],
+            ["lips_mid_lower_down_left", 0.5],
+            ["lips_mid_lower_down_right", 0.5],
+            ["mouth_open", 0.2],
+            ["tongue_back_up", 1.0]
+            ]
+    },
+
+    "moho" : {
+        "rest" : "Rest",
+        "etc" : "Etc",
+        "AI" : "AH",
+        "O" : "O",
+        "U" : "OO",
+        "WQ" : "AH",
+        "L" : "L",
+        "E" : "EH",
+        "MBP" : "MBP",
+        "FV" : "FV"
+    }
+}
