@@ -116,16 +116,16 @@
     <Compile Include="Assets\Push_To_Move.cs" />
     <Compile Include="Assets\PushToTalk.cs" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>C:/Users/herre/Downloads/VAIFUAN-master/VAIFUAN-master/VRAIN-master/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>D:/GITHUB/VAIFUAN/VRAIN-master/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/Users/herre/Downloads/VAIFUAN-master/VAIFUAN-master/VRAIN-master/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>D:/GITHUB/VAIFUAN/VRAIN-master/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>C:/Users/herre/Downloads/VAIFUAN-master/VAIFUAN-master/VRAIN-master/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>D:/GITHUB/VAIFUAN/VRAIN-master/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/Users/herre/Downloads/VAIFUAN-master/VAIFUAN-master/VRAIN-master/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>D:/GITHUB/VAIFUAN/VRAIN-master/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -326,10 +326,10 @@
       <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="Havir.Sockets">
-      <HintPath>C:/Users/herre/Downloads/VAIFUAN-master/VAIFUAN-master/VRAIN-master/Assets/Plugins/Havir/Havir.Sockets.dll</HintPath>
+      <HintPath>D:/GITHUB/VAIFUAN/VRAIN-master/Assets/Plugins/Havir/Havir.Sockets.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json">
-      <HintPath>C:/Users/herre/Downloads/VAIFUAN-master/VAIFUAN-master/VRAIN-master/Assets/Plugins/Havir/Newtonsoft.Json.dll</HintPath>
+      <HintPath>D:/GITHUB/VAIFUAN/VRAIN-master/Assets/Plugins/Havir/Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.Analytics">
       <HintPath>C:/Users/herre/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.16/UnityEngine.Analytics.dll</HintPath>
