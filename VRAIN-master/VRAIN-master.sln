@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRAIN-master", "Assembly-CSharp.csproj", "{79DDDC35-3EB2-E453-22A7-6ECFF84C6E76}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{79DDDC35-3EB2-E453-22A7-6ECFF84C6E76}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRAIN-master", "Assembly-CSharp-Editor.csproj", "{EE745804-4B81-FE57-4BCB-D53F26E0DBFA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{EE745804-4B81-FE57-4BCB-D53F26E0DBFA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -153,6 +153,9 @@ public class RecognizerManager : MonoBehaviour
     private void OnRecivedMessageHandler(UnityActionMessage message)
     {
         UnityEngine.Debug.Log("Mensaje recibido");
+        UnityEngine.Debug.Log(message.Audio);
+        UnityEngine.Debug.Log(message.Agent);
+        UnityEngine.Debug.Log(message.Message);
 
         if (message.Message != null && message.Message.Equals("##kill"))
         {

@@ -1,9 +1,7 @@
 fileFormatVersion: 2
 guid: c0dfd556be265d242993b4f031a38971
-timeCreated: 1523662074
-licenseType: Free
 ModelImporter:
-  serializedVersion: 22
+  serializedVersion: 23
   fileIDToRecycleName:
     100000: Businessman:Body
     100002: Businessman:Bottoms
@@ -195,6 +193,7 @@ ModelImporter:
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
     importAnimatedCustomProperties: 0
+    importConstraints: 0
     animationCompression: 3
     animationRotationError: 0.5
     animationPositionError: 0.5
@@ -206,8 +205,8 @@ ModelImporter:
     - serializedVersion: 16
       name: Gusto
       takeName: iPi Default Take
-      firstFrame: 0
-      lastFrame: 189
+      firstFrame: 53
+      lastFrame: 107
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
@@ -254,6 +253,8 @@ ModelImporter:
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
