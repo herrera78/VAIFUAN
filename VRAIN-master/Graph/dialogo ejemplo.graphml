@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:java="http://www.yworks.com/xml/yfiles-common/1.0/java" xmlns:sys="http://www.yworks.com/xml/yfiles-common/markup/primitives/2.0" xmlns:x="http://www.yworks.com/xml/yfiles-common/markup/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:y="http://www.yworks.com/xml/graphml" xmlns:yed="http://www.yworks.com/xml/yed/3" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://www.yworks.com/xml/schema/graphml/1.1/ygraphml.xsd">
-  <!--Created by yEd 3.18.0.2-->
+  <!--Created by yEd 3.17.1-->
   <key for="port" id="d0" yfiles.type="portgraphics"/>
   <key for="port" id="d1" yfiles.type="portgeometry"/>
   <key for="port" id="d2" yfiles.type="portuserdata"/>
@@ -49,7 +49,7 @@
     <node id="n1">
       <data key="d3"><![CDATA[Alguno]]></data>
       <data key="d4"><![CDATA[decano]]></data>
-      <data key="d5"><![CDATA[aCual]]></data>
+      <data key="d5"><![CDATA[idle]]></data>
       <data key="d6"><![CDATA[Alguno]]></data>
       <data key="d7">true</data>
       <data key="d8"><![CDATA[Alguno]]></data>
@@ -74,7 +74,7 @@
     <node id="n2">
       <data key="d3"><![CDATA[Aquí]]></data>
       <data key="d4"><![CDATA[decano]]></data>
-      <data key="d5"><![CDATA[aCual]]></data>
+      <data key="d5"><![CDATA[idle]]></data>
       <data key="d6"><![CDATA[Aquí]]></data>
       <data key="d7">true</data>
       <data key="d8"><![CDATA[Aquí]]></data>
@@ -99,7 +99,7 @@
     <node id="n3">
       <data key="d3"><![CDATA[Digamos]]></data>
       <data key="d4"><![CDATA[decano]]></data>
-      <data key="d5"><![CDATA[aCual]]></data>
+      <data key="d5"><![CDATA[idle]]></data>
       <data key="d6"><![CDATA[Digamos]]></data>
       <data key="d7">true</data>
       <data key="d8"><![CDATA[Digamos]]></data>
@@ -124,7 +124,7 @@
     <node id="n4">
       <data key="d3"><![CDATA[Ejemplo]]></data>
       <data key="d4"><![CDATA[decano]]></data>
-      <data key="d5"><![CDATA[aCual]]></data>
+      <data key="d5"><![CDATA[idle]]></data>
       <data key="d6"><![CDATA[Ejemplo]]></data>
       <data key="d7">true</data>
       <data key="d8"><![CDATA[Ejemplo]]></data>
@@ -149,7 +149,7 @@
     <node id="n5">
       <data key="d3"><![CDATA[El]]></data>
       <data key="d4"><![CDATA[decano]]></data>
-      <data key="d5"><![CDATA[aCual]]></data>
+      <data key="d5"><![CDATA[idle]]></data>
       <data key="d6"><![CDATA[El]]></data>
       <data key="d7">true</data>
       <data key="d8"><![CDATA[El]]></data>
@@ -399,7 +399,7 @@
     <node id="n15">
       <data key="d3"><![CDATA[Porque]]></data>
       <data key="d4"><![CDATA[decano]]></data>
-      <data key="d5"><![CDATA[aCual]]></data>
+      <data key="d5"><![CDATA[idle]]></data>
       <data key="d6"><![CDATA[Porque]]></data>
       <data key="d7">false</data>
       <data key="d8"><![CDATA[Porque]]></data>
@@ -424,7 +424,7 @@
     <node id="n16">
       <data key="d3"><![CDATA[Que]]></data>
       <data key="d4"><![CDATA[decano]]></data>
-      <data key="d5"><![CDATA[aCual ]]></data>
+      <data key="d5"><![CDATA[idle ]]></data>
       <data key="d6"><![CDATA[Que]]></data>
       <data key="d7">true</data>
       <data key="d8"><![CDATA[Que]]></data>
@@ -449,7 +449,7 @@
     <node id="n17">
       <data key="d3"><![CDATA[Tenemos]]></data>
       <data key="d4"><![CDATA[decano]]></data>
-      <data key="d5"><![CDATA[aCual]]></data>
+      <data key="d5"><![CDATA[idle]]></data>
       <data key="d6"><![CDATA[Tenemos]]></data>
       <data key="d7">true</data>
       <data key="d8"><![CDATA[Tenemos]]></data>
@@ -474,7 +474,7 @@
     <node id="n18">
       <data key="d3"><![CDATA[Usted]]></data>
       <data key="d4"><![CDATA[decano]]></data>
-      <data key="d5"><![CDATA[aCual]]></data>
+      <data key="d5"><![CDATA[idle]]></data>
       <data key="d6"><![CDATA[Usted]]></data>
       <data key="d7">true</data>
       <data key="d8"><![CDATA[Usted]]></data>
@@ -499,7 +499,7 @@
     <node id="n19">
       <data key="d3"><![CDATA[Yo]]></data>
       <data key="d4"><![CDATA[decano]]></data>
-      <data key="d5"><![CDATA[aCual]]></data>
+      <data key="d5"><![CDATA[idle]]></data>
       <data key="d6"><![CDATA[Yo]]></data>
       <data key="d7">true</data>
       <data key="d8"><![CDATA[Yo]]></data>
