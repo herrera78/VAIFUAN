@@ -11,7 +11,8 @@
 9. Dirigirse a la carpeta de instalación de los plugins de blender (usualmente la ruta C:\Users\%user%\AppData\Roaming\BlenderFoundation\Blender\2.93\scripts\addons\import_runtime_mhx2\data\hm8\faceshapes) y reemplazar el archivo visemes.mxa por el archivo visemes.mxa del repositorio clonado.
 10. Reiniciar Blender.
 11. Importar el .mhx2 a Blender desde el apartado File -> Import -> MakeHuman(.mhx2) y seleccionar el modelo exportado desde MakeHuman, posteriormente, marcar la opción Face Shapes y Face Shape Drivers y confirmar.
-12. En caso de tener problemas al importar las texturas antes que nada poner el blender en modo de texturas presionando la tecla z y moviendo el cursor a material ![image](https://user-images.githubusercontent.com/44117920/135951829-122bcb4d-7591-4774-bd30-f6d148af2f8c.png)
+12. En caso de tener problemas al importar las texturas antes que nada poner el blender en modo de texturas presionando la tecla z y moviendo el cursor a material 
+![image](https://user-images.githubusercontent.com/44117920/135951829-122bcb4d-7591-4774-bd30-f6d148af2f8c.png)
  luego de esto si se tiene algun problema con las texturas se va a el modo de shading de blender se selecciona el material con el que haya problema
 13. En el apartado de Scene Collection en el editor type: outliner seleccionar el componente Body ("nombre_archivo":Body) del personaje importado, y seleccionar el triángulo invertido de color verde dentro de las opciones desplegadas.
 14. Dentro del editor type: Properties, buscar en la parte izquierda el triangulo invertido de color verde. 
